@@ -1,7 +1,7 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Haven Blakely-Rivers
+subtitle: A Portfolio Page For My Gamedev Work (Made Using Jekyll/Devlopr)
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  I am a level 6 Games Design & Programming student at the University of Staffordshire and a passionate games engineer
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -25,36 +25,42 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author: Haven Blakely-Rivers
+author_bio: I am Haven! I'm a gamedev who is super passionate about making things with code
+author_email: "floretdev@gmail.com"
+author_location: Stoke-On-Trent, UK
+author_website_url: "floretdev.com"
+typewrite-text: A passionate gamedev engineer who loves to code
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
+            - company_name: University of Staffordshire
               company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+              company_url: https://www.staffs.ac.uk/student-life/student-ambassador-scheme
+              designation: Student Ambassador
+              description: Worked both solo and as a collective to foster people's interest in the university as well as helping the staff at the university.
               visibility: true
             - company_name: Microsoft
               company_logo: microsoft.png
               company_url: https://microsoft.com
               designation: Azure Developer
               description: Worked on various Azure Cloud Products
-              visibility: true
+              visibility: false
 
 # Education
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+                college_name: University Of Staffordshire
+                college_url: https://www.staffs.ac.uk
+                college_degree: BSc Games Design and Programming
+                description: Bachelor of Science Degree where I learnt a lot of how to make a game
+                visibility: true
+              - college_logo: mit.png
+                college_name: Access Creative College
+                college_url: https://www.staffs.ac.uk
+                college_degree: BTEC Level 3 Games Design
+                description: BTEC Degree at the Norwich campus
                 visibility: true
 
 # Projects
