@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Welcome to devlopr-jekyll !"
-summary: "Getting Started using devlopr-jekyll"
-author: johndoe
-date: '2019-05-22 14:35:23 +0530'
-category: jekyll
+title:  "Portfolio Template"
+summary: "Summary of Portfolio Piece (Results, lessons)"
+author: Haven "FloretSoftware" Blakely-Rivers
+date: '2025-10-25 14:55:00 +0000'
+category: portfolio
 thumbnail: /assets/img/posts/code.jpg
-keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
+keywords: template, portfolio, gamedev
 permalink: /blog/welcome-to-devlopr-jekyll/
 usemathjax: true
 ---
