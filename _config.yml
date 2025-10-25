@@ -12,12 +12,8 @@ urls:
       url: /
     - text: About
       url: /about
-    - text: Blog
+    - text: Portfolio
       url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url: /shop
     - text: Contact
       url : /contact
 
@@ -26,13 +22,12 @@ urls:
 
 author_logo: profile.png
 author: Haven Blakely-Rivers
-author_bio: I am Haven! I'm a gamedev who is super passionate about making things with code
+author_bio: I am an undergraduate at University Of Staffordshire studying Games Design and Programming. I really enjoy coding and find the logic based nature of it easy to grasp and understand. I can also communicate well and work as a team because of my job as a Student Ambassador. I want to pursue a career where coding is my everyday and I work with people to make games that inspire others to make games.
 author_email: "floretdev@gmail.com"
 author_location: Stoke-On-Trent, UK
 author_website_url: "floretdev.com"
 typewrite-text: A passionate gamedev engineer who loves to code
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
-
 # Experiences
 author_work_experiences:
             - company_name: University of Staffordshire
@@ -47,14 +42,14 @@ author_education_details:
               - college_logo: staffs.png
                 college_name: University Of Staffordshire
                 college_url: https://www.staffs.ac.uk
-                college_degree: BSc Games Design and Programming
-                description: Bachelor of Science Degree where I learnt a lot of how to make a game
+                college_degree: BSc Games Design and Programming (Sept. 2023 - Ongoing)
+                description: Bachelor of Science Degree With a Primary Focus on Programming supplimented by games design
                 visibility: true
               - college_logo: mit.png
                 college_name: Access Creative College
-                college_url: https://www.staffs.ac.uk
-                college_degree: BTEC Level 3 Games Design
-                description: BTEC Degree at the Norwich campus
+                college_url: https://www.accesscreative.ac.uk/
+                college_degree: BTEC Level 3 Games Design (Sept. 2021 - July 2023)
+                description: BTEC Degree at the Norwich campus where i learnt the basics of games design and creation
                 visibility: true
 
 # Projects

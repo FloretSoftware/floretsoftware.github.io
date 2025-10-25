@@ -1,7 +1,7 @@
 ---
 name: Haven Blakely-Rivers
 username: floretsoftware
-bio: "Hi! I'm Haven and I do Gamedev"
+bio: "I am an undergraduate at University Of Staffordshire studying Games Design and Programming. I really enjoy coding and find the logic based nature of it easy to grasp and understand. I can also communicate well and work as a team because of my job as a Student Ambassador. I want to pursue a career where coding is my everyday and I work with people to make games that inspire others to make games."
 site: http://floretdev.com
 avatar: avatar.png
 email: floretdev@gmail.com
