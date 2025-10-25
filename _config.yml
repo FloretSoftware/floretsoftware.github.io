@@ -57,12 +57,12 @@ author_project_details:
               - project_thumbnail: midnighttransmission.png
                 project_title: Midnight Transmission
                 project_description: A top down exploration game made in Godot. I acted as a Lead Dev and World Maker
-                project_url: https://floretdev.com/blog/midnight-tramission
+                project_url: http://floretdev.com/blog/midnight-transmission/
                 visibility: true
               - project_thumbnail: goblinwithagun.png
                 project_title: Goblin With a Gun
                 project_description: A top down arena shooter made in unity for a uni module. Feature complete.
-                project_url: https://floretdev.com/blog/goblin-with-a-gun
+                project_url: http://floretdev.com/blog/goblin-with-a-gun/
                 visibility: true
 
 # social links
