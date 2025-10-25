@@ -16,6 +16,8 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
+    - text: Shop
+      url: /shop
     - text: Contact
       url : /contact
 
@@ -34,21 +36,15 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 # Experiences
 author_work_experiences:
             - company_name: University of Staffordshire
-              company_logo: google.png
+              company_logo: staffs.png
               company_url: https://www.staffs.ac.uk/student-life/student-ambassador-scheme
               designation: Student Ambassador
               description: Worked both solo and as a collective to foster people's interest in the university as well as helping the staff at the university.
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
-              visibility: false
 
 # Education
 author_education_details:
-              - college_logo: mit.png
+              - college_logo: staffs.png
                 college_name: University Of Staffordshire
                 college_url: https://www.staffs.ac.uk
                 college_degree: BSc Games Design and Programming

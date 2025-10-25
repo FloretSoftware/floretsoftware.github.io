@@ -3,7 +3,7 @@ layout: post
 title:  "Portfolio Template"
 summary: "Summary of Portfolio Piece (Results, lessons)"
 author: Haven "FloretSoftware" Blakely-Rivers
-date: '2025-10-25 14:55:00 +0000'
+date: '2025-10-25 15:20:00 +0100'
 category: portfolio
 thumbnail: /assets/img/posts/code.jpg
 keywords: template, portfolio, gamedev
