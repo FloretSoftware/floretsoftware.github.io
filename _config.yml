@@ -14,8 +14,6 @@ urls:
       url: /about
     - text: Portfolio
       url: /blog
-    - text: Contact
-      url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
@@ -63,6 +61,11 @@ author_project_details:
                 project_title: Goblin With a Gun
                 project_description: A top down arena shooter made in unity for a uni module. Feature complete.
                 project_url: http://floretdev.com/blog/goblin-with-a-gun/
+                visibility: true
+              - project_thumbnail: unrealstealth.png
+                project_title: Unreal Stealth
+                project_description: An Unreal Game made in C++ with AI and Stealth.
+                project_url: http://floretdev.com/blog/unreal-stealth/
                 visibility: true
 
 # social links
