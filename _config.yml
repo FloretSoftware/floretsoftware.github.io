@@ -67,13 +67,18 @@ author_project_details:
                 project_description: An Unreal Game made in C++ with AI and Stealth.
                 project_url: http://floretdev.com/blog/unreal-stealth/
                 visibility: true
+              - project_thumbnail: chatterbox.png
+                project_title: Chatterbox
+                project_description: A Dialogue Creation & Usage System made using Unity's Experimental Node Graph System
+                project_url: http://floretdev.com/blog/chatterbox/
+                visibility: true
 
 # social links
 twitter_username: floretdev
 github_username:  Transference-OperatorHaven
 instagram_username: floretdev
 # facebook_username: johndoe
-# linkedin_username: johndoe
+linkedin_username: floretsoftware
 # behance_username: johndoe
 # medium_username: johndoe
 # telegram_username: johndoe
