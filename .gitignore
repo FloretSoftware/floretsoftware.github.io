@@ -12,5 +12,6 @@ _site/
 .bundle
 .bundle/
 vendor/
+.vs
 
 .DS_Store
